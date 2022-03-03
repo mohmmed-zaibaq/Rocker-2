@@ -474,6 +474,10 @@ section.slider img {
 .final-icon li {
   margin: 0 10px;
   color: #999;
+  transition: color 0.3s;
+}
+.final-icon li:hover a {
+  color: #fff;
 }
 .soicl-medi {
   text-align: center;
